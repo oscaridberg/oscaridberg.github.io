@@ -1,0 +1,1 @@
+import{a as r,t as n}from"../chunks/3fL7Htlw.js";import"../chunks/Dsqwzg4Q.js";import{f as e,n as m}from"../chunks/9E27IwhK.js";import{N as p}from"../chunks/ByWy3qsr.js";var s=n('<!> <main class="mt-20"><h1>Deep Beauty by Nea</h1> <span>Kontakt</span></main>',1);function d(t){var a=s(),o=e(a);p(o,{}),m(2),r(t,a)}export{d as component};
